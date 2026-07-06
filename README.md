@@ -51,14 +51,16 @@ I believe consistency is remembered long after visual effects are forgotten.
 <table>
   <tr>
     <td valign="top" width="33.3%">
-      <h3>🎨 Design</h3>
-      <a href="https://figma.com" target="_blank"><img src="https://shields.io" alt="Figma" /></a><br/>
-      <a href="https://figma.com" target="_blank"><img src="https://shields.io" alt="FigJam" /></a><br/>
-      <a href="https://canva.com" target="_blank"><img src="https://shields.io" alt="Canva" /></a><br/>
-      <a href="https://adobe.com" target="_blank"><img src="https://shields.io" alt="Illustrator" /></a>
+      <h3>Design</h3>
+      <ul>
+        <li>Figma</li>
+        <li>FigJam</li>
+        <li>Canva</li>
+        <li>Adobe Illustrator</li>
+      </ul>
     </td>
     <td valign="top" width="33.3%">
-      <h3>📚 Learning</h3>
+      <h3>Learning</h3>
       <ul>
         <li>UX Research</li>
         <li>Wireframing</li>
@@ -68,14 +70,15 @@ I believe consistency is remembered long after visual effects are forgotten.
       </ul>
     </td>
     <td valign="top" width="33.3%">
-      <h3>💻 Development</h3>
-      <img src="https://shields.io" alt="HTML5" /><br/>
-      <img src="https://shields.io" alt="CSS3" /><br/>
-      <img src="https://shields.io" alt="JavaScript" /> <i>(Learning)</i>
+      <h3>Development</h3>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript <i>(Learning)</i></li>
+      </ul>
     </td>
   </tr>
 </table>
-
 
 ---
 
