@@ -44,21 +44,20 @@ I believe consistency is remembered long after visual effects are forgotten.
 
 ---
 
+---
+
 ## 🧰 Toolbox
 
 <table>
   <tr>
     <td valign="top" width="33.3%">
       <h3>🎨 Design</h3>
-      <ul>
-        <li>Figma</li>
-        <li>FigJam</li>
-        <li>Canva</li>
-        <li>Adobe Illustrator</li>
-      </ul>
+      <img src="https://shields.io" alt="Figma" /><br/><br/>
+      <img src="https://shields.io" alt="Illustrator" /><br/><br/>
+      <img src="https://shields.io" alt="Canva" />
     </td>
     <td valign="top" width="33.3%">
-      <h3>📚 Learning</h3>
+      <h3>🧠 Learning</h3>
       <ul>
         <li>UX Research</li>
         <li>Wireframing</li>
@@ -69,11 +68,9 @@ I believe consistency is remembered long after visual effects are forgotten.
     </td>
     <td valign="top" width="33.3%">
       <h3>💻 Development</h3>
-      <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>JavaScript <i>(Learning)</i></li>
-      </ul>
+      <img src="https://shields.io" alt="HTML5" /><br/><br/>
+      <img src="https://shields.io" alt="CSS3" /><br/><br/>
+      <img src="https://shields.io" alt="JS" />
     </td>
   </tr>
 </table>
