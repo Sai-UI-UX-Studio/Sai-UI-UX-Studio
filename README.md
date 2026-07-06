@@ -14,7 +14,7 @@ I design interfaces that feel effortless to use and satisfying to return to. My 
 
 ---
 
-## 👁️ Philosophy
+## 🧠 Philosophy
 
 Good design rarely announces itself.
 
@@ -58,7 +58,7 @@ I believe consistency is remembered long after visual effects are forgotten.
       </ul>
     </td>
     <td valign="top" width="33.3%">
-      <h3>🧠 Learning</h3>
+      <h3>📚 Learning</h3>
       <ul>
         <li>UX Research</li>
         <li>Wireframing</li>
