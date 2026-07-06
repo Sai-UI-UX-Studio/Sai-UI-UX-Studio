@@ -44,44 +44,6 @@ I believe consistency is remembered long after visual effects are forgotten.
 
 ---
 
----
-
-## 🧰 Toolbox
-
-<table>
-  <tr>
-    <td valign="top" width="33.3%">
-      <h3>Design</h3>
-      <ul>
-        <li>Figma</li>
-        <li>FigJam</li>
-        <li>Canva</li>
-        <li>Adobe Illustrator</li>
-      </ul>
-    </td>
-    <td valign="top" width="33.3%">
-      <h3>Learning</h3>
-      <ul>
-        <li>UX Research</li>
-        <li>Wireframing</li>
-        <li>Prototyping</li>
-        <li>Information Architecture</li>
-        <li>Design Systems</li>
-      </ul>
-    </td>
-    <td valign="top" width="33.3%">
-      <h3>Development</h3>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript <i>(Learning)</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Currently Building
 
 A collection of projects focused on solving everyday usability problems through thoughtful design and careful iteration.
