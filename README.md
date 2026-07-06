@@ -52,10 +52,10 @@ I believe consistency is remembered long after visual effects are forgotten.
   <tr>
     <td valign="top" width="33.3%">
       <h3>🎨 Design</h3>
-      <a href="https://figma.com" target="_blank"><img src="https://shields.io" alt="Figma" /></a><br/>
-      <a href="https://figma.com" target="_blank"><img src="https://shields.io" alt="FigJam" /></a><br/>
-      <a href="https://canva.com" target="_blank"><img src="https://shields.io" alt="Canva" /></a><br/>
-      <a href="https://adobe.com" target="_blank"><img src="https://shields.io" alt="Illustrator" /></a>
+      <img src="https://shields.io" alt="Figma" /><br/>
+      <img src="https://shields.io" alt="FigJam" /><br/>
+      <img src="https://shields.io" alt="Canva" /><br/>
+      <img src="https://shields.io" alt="Illustrator" />
     </td>
     <td valign="top" width="33.3%">
       <h3>📚 Learning</h3>
@@ -71,7 +71,8 @@ I believe consistency is remembered long after visual effects are forgotten.
       <h3>💻 Development</h3>
       <img src="https://shields.io" alt="HTML5" /><br/>
       <img src="https://shields.io" alt="CSS3" /><br/>
-      <img src="https://shields.io" alt="JavaScript" /> <i>(Learning)</i>
+      <img src="https://shields.io" alt="JavaScript" /><br/>
+      <i>(Learning)</i>
     </td>
   </tr>
 </table>
